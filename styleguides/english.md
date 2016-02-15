@@ -99,25 +99,13 @@ related topics.
 
 **bold**
 
-Titles that are to be omitted from a table of contents should be bolded instead
-of added to a header. Usually, repeated titles should be bolded.
+Keywords should be **bold**.
 
 _Example:_
 
 ```
-## Add an Image to The Website
-
-We can add an image to the site with an `<img>` tag. Unlike `<p>` tags, `<img>`
-tags don't have a closing tag.
-
-**Our code so far:**
-    <p>This is text</p>
-    <img href="example.com/icon.png"></img>
+This workshop explains how to use **HTML** & **CSS**.
 ```
-
-**italicize**
-
-Anything that needs emphasis should be italicized.
 
 **inline code**
 
